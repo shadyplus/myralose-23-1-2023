@@ -852,6 +852,8 @@ flex-direction: column;
 .infograph-prod {
 width: 100%;
 justify-self: center;
+transform: scale(1.8);
+
 }
 .infograph-img {
 width: 28%;
